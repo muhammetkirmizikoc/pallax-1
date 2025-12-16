@@ -1,18 +1,27 @@
-# pallax-1
-Pallax Geliştirmesi
-
 Tuyap Gelir Takip
-Flutter ile yazılmış basit kişisel finans takip uygulaması.
+
+Flutter ile yazılmış basit bir kişisel finans takip uygulaması.
+
+<img src="https://github.com/user-attachments/assets/03fee5cb-e6f6-413d-a48c-266cab05d559" width="300" />
 Özellikler
 
-Gelir/gider ekleme-çıkarma (tarih seçmeli)
-Toplam ve günlük net kazanç takibi
-Son işlemler listesi (son 30 gün)
-Kumulatif grafik: haftalık (son 7 gün), aylık (son 30 gün), tüm zamanlar
-Karanlık/aydınlık mod + grafik gizleme
-Veri sıfırlama, paylaşma, destek mail
-SharedPreferences ile kalıcı veri
+Gelir / gider ekleme (tarih seçmeli)
 
-Tuyap Gelir Takip, Flutter ile yazılmış basit bir kişisel finans uygulamasıdır. Gelir ve giderlerinizi kaydedip net kazancınızı takip edebilir, son 7/30 gün veya tüm zamanlar için kumulatif grafik görüntüleyebilirsiniz. Karanlık mod, grafik kapatma ve yerel veri saklama özellikleri bulunur.
+Günlük ve toplam net kazanç
 
-<img width="479" center height="946" alt="image" src="https://github.com/user-attachments/assets/03fee5cb-e6f6-413d-a48c-266cab05d559" />
+Son 30 gün işlemleri
+
+Kümülatif grafik (7 gün / 30 gün / tüm zamanlar)
+
+Karanlık / aydınlık mod
+
+Grafik gizleme
+
+Veri sıfırlama
+
+Yerel veri saklama (SharedPreferences)
+
+Açıklama
+
+Tuyap Gelir Takip, gelir ve giderleri kaydedip net kazancı takip etmeye odaklanan sade bir Flutter uygulamasıdır.
+Veriler cihazda saklanır, internet gerekmez.
