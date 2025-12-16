@@ -15,4 +15,4 @@ SharedPreferences ile kalıcı veri
 
 Tuyap Gelir Takip, Flutter ile yazılmış basit bir kişisel finans uygulamasıdır. Gelir ve giderlerinizi kaydedip net kazancınızı takip edebilir, son 7/30 gün veya tüm zamanlar için kumulatif grafik görüntüleyebilirsiniz. Karanlık mod, grafik kapatma ve yerel veri saklama özellikleri bulunur.
 
-<img width="479" height="946" alt="image" src="https://github.com/user-attachments/assets/03fee5cb-e6f6-413d-a48c-266cab05d559" />
+<img width="479" center height="946" alt="image" src="https://github.com/user-attachments/assets/03fee5cb-e6f6-413d-a48c-266cab05d559" />
